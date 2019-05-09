@@ -17,7 +17,6 @@ Hi, I am Christopher a first year doctoral researcher @ [UKP TU Darmstadt](https
 ## Links
 * [Google scholar](https://scholar.google.de/citations?hl=de&authuser=1&user=oLSU8LEAAAAJ)
 * [UKP lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_68224.en.jsp)
-* [CV]()
 * [Twitter](twitter.com/chklamm)
 
 ## +
