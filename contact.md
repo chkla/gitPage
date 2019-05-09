@@ -5,11 +5,11 @@ is_contact: true
 
 * Email: [last name -at- ukp.informatik.tu-darmstadt](mailto:klamm@ukp.informatik.tu-darmstadt.de)
 
-* Phone: [+496151 16 25293](tel:+4961511625293)
+* Phone: [+49 6151 16 25293](tel:+4961511625293)
 
 ---
 
-## Mailing Address
+## Address
 
 > Hochschulstr. 10
 >
