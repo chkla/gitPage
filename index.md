@@ -15,9 +15,9 @@ Hi, I am Christopher a first year doctoral researcher @ [UKP TU Darmstadt](https
 * Science Communication
 
 ## Links
-* [Google scholar](https://scholar.google.de/citations?hl=de&authuser=1&user=oLSU8LEAAAAJ)
-* [UKP lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_68224.en.jsp)
-* [Twitter](twitter.com/chklamm)
+* 🗄 [Google scholar](https://scholar.google.de/citations?hl=de&authuser=1&user=oLSU8LEAAAAJ)
+* 🔬 [UKP lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_68224.en.jsp)
+* 👥 [LinkedIn](https://www.linkedin.com/in/christopher-klamm-865786b3/)
 
 ## +
 Beside my research, I like to do further trainings, qualifications etc.:
