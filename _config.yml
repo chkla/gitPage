@@ -20,7 +20,7 @@ nav:
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
-   link: "contact.md"
+   link: "contact"
  - name: "Blog"
    link: "blog.html"
 
