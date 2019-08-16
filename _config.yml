@@ -18,10 +18,10 @@ nav:
 # - name: "About"
 #   link: "/researcher/"
  - name: "Resume"
-   link: "resume.pdf"
+   link: /resume.pdf
  - name: "Contact"
-   link: "contact"
+   link: /contact.md
  - name: "Blog"
-   link: "blog"
+   link: /blog.html
 
 theme: jekyll-theme-cayman
