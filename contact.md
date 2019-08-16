@@ -17,8 +17,3 @@ is_contact: true
 >
 > Germany
 
----
-
-## Social
-1. [Twitter](twitter.com/chklamm)
-
