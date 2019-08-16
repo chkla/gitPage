@@ -1,6 +1,6 @@
 title: Christopher Klamm
 url: "https://klamm.info/"
-baseurl: ""
+#baseurl: ""
 
 markdown: kramdown
 
@@ -18,10 +18,10 @@ nav:
 # - name: "About"
 #   link: "/researcher/"
  - name: "Resume"
-   link: resume.pdf
+   link: "resume.pdf"
  - name: "Contact"
-   link: contact.md
+   link: "contact.md"
  - name: "Blog"
-   link: blog.html
+   link: "blog.html"
 
 theme: jekyll-theme-cayman
