@@ -1,6 +1,6 @@
 title: Christopher Klamm
 url: "https://klamm.info"
-baseurl: "/blog.html"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -23,6 +23,6 @@ nav:
  - name: "Contact"
    link: "contact"
  - name: Blog
-   link: /blog.html
+   link: "/blog.html"
 
 theme: jekyll-theme-cayman
