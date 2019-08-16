@@ -1,6 +1,6 @@
 title: Christopher Klamm
 url: "https://klamm.info"
-#baseurl: "/researcher"
+baseurl: "/"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
