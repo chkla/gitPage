@@ -1,6 +1,6 @@
 title: Christopher Klamm
-url: "https://klamm.info/"
-#baseurl: ""
+url: https://klamm.info
+baseurl: ''
 
 markdown: kramdown
 
