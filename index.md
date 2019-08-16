@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="chris.jpg">
 
-Hi, I am Christopher a first year doctoral researcher @ [UKP TU Darmstadt](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/about_ukp/index.en.jsp). My work focuses on interdisciplinary research for Argumentation Mining and Bias in NLP. I hold a B.A. in Political and Computer Science and a Master (with distinction) in Computer Science from TU Darmstadt (exchange semester at the University of Zurich and ETH Zurich (Fachhörer and student assistant @ [Computational Social Science](http://www.coss.ethz.ch))). Additionally, I’m completed my Master’s degree in Governance and Public Policy at the TU Darmstadt.
+Hi, I am Christopher a first year doctoral researcher @ [UKP TU Darmstadt, <i>Prof. Dr. Iryna Gurevych</i>](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/about_ukp/index.en.jsp). My work focuses on interdisciplinary research for Argumentation Mining and Bias in NLP. I hold a B.A. in Political and Computer Science and a Master (with distinction) in Computer Science from TU Darmstadt (exchange semester at the University of Zurich and ETH Zurich (Fachhörer and research/ student assistant @ [Computational Social Science, <i>Prof. Dr. Helbing</i>](http://www.coss.ethz.ch))). Additionally, I’m completed my Master’s degree in Governance and Public Policy at the TU Darmstadt.
 
 ## Research Interest
 * Bias in NLP
