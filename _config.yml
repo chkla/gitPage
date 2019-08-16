@@ -23,6 +23,6 @@ nav:
  - name: "Contact"
    link: "contact"
  - name: Blog
-   link: /blog.md
+   link: blog.md
 
 theme: jekyll-theme-cayman
