@@ -1,8 +1,5 @@
 title: Christopher Klamm
-#url: https://klamm.info
-url: ''
-baseurl: ''
-#baseurl: ''
+url: https://klamm.info
 
 markdown: kramdown
 
@@ -10,7 +7,7 @@ tracking_id: #
 
 #footer: yes
 #footer_url: "https://ankitsultana.com"
-#footer_text: "Page design by Ankit Sultana"
+footer_text: "Page design by Ankit Sultana"
 
 sass:
     style: compressed
