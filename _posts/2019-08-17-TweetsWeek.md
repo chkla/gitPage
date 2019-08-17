@@ -5,7 +5,7 @@ author: christopher
 
 <b>Tweet-Letter of the week 2.8.-11.8.19</b>
 
-NLP is a fast growing 🚀 domain with a lot of inventions week by week. Therefore, it might hard to dive into such an overhelping information stream. This Tweet-Letter provides on subjective view on interesting NLP Tweets of the week as a starting point for everyone who is interested in NLP (and funny dog content 🐶). The following subset of Tweets are what I liked during the week, which means that I definitly missed a lot of cool other Tweets.
+NLP is a fast growing 🚀 domain with a lot of inventions week by week. Therefore, it might hard to dive into such an overhelping information stream. This Tweet-Letter provides on subjective view on interesting NLP Tweets of the week as a starting point for everyone who is interested in NLP (and funny dog content 🐶). The following subset of Tweets is what I liked during the week, which means that I definitly missed a lot of cool other Tweets.
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">I am delighted that I will get to this presentation again in our TA workshop in late September. We still have &gt;1 month in our summer at UW, but I know others are much closer to the start of the year, so it seems like a good time to send this circulating again. <a href="https://twitter.com/hashtag/phdlife?src=hash&amp;ref_src=twsrc%5Etfw">#phdlife</a> <a href="https://twitter.com/hashtag/worklife?src=hash&amp;ref_src=twsrc%5Etfw">#worklife</a> <a href="https://t.co/rZOnP7yMAh">https://t.co/rZOnP7yMAh</a></p>&mdash; Emily M. Bender (@emilymbender) <a href="https://twitter.com/emilymbender/status/1160628172473294849?ref_src=twsrc%5Etfw">August 11, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -14,9 +14,6 @@ NLP is a fast growing 🚀 domain with a lot of inventions week by week. Therefo
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr"><a href="https://twitter.com/facebookai?ref_src=twsrc%5Etfw">@facebookai</a>&#39;s RoBERTa is up on the <a href="https://t.co/ipzFoqJiyU">https://t.co/ipzFoqJiyU</a> leaderboard, with an improvement of more than 15 percentage *points* over our BERT baseline. <a href="https://t.co/5E3Kr8XIOP">pic.twitter.com/5E3Kr8XIOP</a></p>&mdash; Sam Bowman (@sleepinyourhat) <a href="https://twitter.com/sleepinyourhat/status/1159841832492081161?ref_src=twsrc%5Etfw">August 9, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="und" dir="ltr"><a href="https://t.co/47lTesOCB5">pic.twitter.com/47lTesOCB5</a></p>&mdash; Liz Climo (@elclimo) <a href="https://twitter.com/elclimo/status/1159591450620731397?ref_src=twsrc%5Etfw">August 8, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="und" dir="ltr"><a href="https://t.co/47lTesOCB5">pic.twitter.com/47lTesOCB5</a></p>&mdash; Liz Climo (@elclimo) <a href="https://twitter.com/elclimo/status/1159591450620731397?ref_src=twsrc%5Etfw">August 8, 2019</a></blockquote>
