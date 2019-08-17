@@ -1,6 +1,6 @@
 title: Christopher Klamm
 url: https://klamm.info
-baseurl: '/gitPage'
+baseurl: ''
 
 markdown: kramdown
 
@@ -16,10 +16,10 @@ sass:
 
 nav:
  - name: "Resume"
-   link: /resume.pdf
+   link: gitPage/resume.pdf
  - name: "Contact"
-   link: /contact.md
+   link: gitPage/contact.md
  - name: "Blog"
-   link: /blog.html
+   link: gitPage/blog.html
 
 theme: jekyll-theme-cayman
