@@ -16,10 +16,10 @@ sass:
 
 nav:
  - name: "Resume"
-   link: "/resume.pdf"
+   link: /resume.pdf
  - name: "Contact"
-   link: "/contact"
+   link: /contactmd
  - name: "Blog"
-   link: "/blog.html"
+   link: /blog.html
 
 theme: jekyll-theme-cayman
