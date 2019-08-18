@@ -4,7 +4,7 @@ title: My favorite NLP Tweets of the week (🗓 12.8.-18.8.19)
 author: christopher
 ---
 
-<b>My favorite NLP Tweets of the week (🗓 12.8.-18.8.19)</b>
+Geoff Hinton: "One big challenge the community faces is that if you want to get a paper published in ML now it&#39;s got to have a table in it, with all these different data sets across the top, and all these diff methods along the side, and your method has to look like the best one" @haffari
 
 NLP is a fast growing 🚀 domain with a lot of inventions. Therefore, it might be hard and time-consuming to dive into such an overwhelming flow of information. This Tweet-Letter provides interesting NLP Tweets of the week as a starting point for everyone who is interested in NLP (+ PhD, computational social science, Hannah Arendt and dog content 🐶). ❗️ Please note that it is certainly incomplete - I am just a "victim" of my own filter bubble and I definitly missed a lot of cool other NLP Tweets.
 
