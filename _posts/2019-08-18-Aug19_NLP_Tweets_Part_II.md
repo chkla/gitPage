@@ -4,9 +4,9 @@ title: My favorite NLP Tweets of the week (🗓 12.8.-18.8.19)
 author: christopher
 ---
 
-<i>Geoff Hinton: "One big challenge the community faces is that if you want to get a paper published in ML now it&#39;s got to have a table in it, with all these different data sets across the top, and all these diff methods along the side, and your method has to look like the best one" @haffari</i>
+<i>"One big challenge the community faces is that if you want to get a paper published in ML now it's got to have a table in it, with all these different data sets across the top, and all these diff methods along the side, and your method has to look like the best one" - Geoff Hinton</i>
 
-NLP is a fast growing 🚀 domain with a lot of inventions. Therefore, it might be hard and time-consuming to dive into such an overwhelming flow of information. This Tweet-Letter provides interesting NLP Tweets of the week as a starting point for everyone who is interested in NLP (+ PhD, computational social science, Hannah Arendt and dog content 🐶). ❗️ Please note that it is certainly incomplete - I am just a "victim" of my own filter bubble and I definitly missed a lot of cool other NLP Tweets.
+<b>Tweet-Letter:</b> NLP is a fast growing 🚀 domain with a lot of inventions. Therefore, it might be hard and time-consuming to dive into such an overwhelming flow of information. This Tweet-Letter provides interesting NLP Tweets of the week as a starting point for everyone who is interested in NLP (+ PhD, computational social science, Hannah Arendt and dog content 🐶). ❗️ Please note that it is certainly incomplete - I am just a "victim" of my own filter bubble and I definitly missed a lot of cool other NLP Tweets.
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Was my PhD worth it? I think <a href="https://twitter.com/lemire?ref_src=twsrc%5Etfw">@lemire</a> will like it :-) <a href="https://t.co/aAI0mI0It6">https://t.co/aAI0mI0It6</a></p>&mdash; Leonid Boytsov (@srchvrs) <a href="https://twitter.com/srchvrs/status/1162839249135308800?ref_src=twsrc%5Etfw">August 17, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
