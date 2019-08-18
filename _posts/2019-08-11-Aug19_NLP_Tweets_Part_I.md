@@ -4,7 +4,7 @@ title: My favorite NLP Tweets of the week (🗓 2.8.-11.8.19)
 author: christopher
 ---
 
-<b>My favorite NLP Tweets of the week (🗓 2.8.-11.8.19)</b>
+<i>RoBERTa is up on the https://t.co/ipzFoqJiyU leaderboard, with an improvement of more than 15 percentage *points* over our BERT baseline. — Sam Bowman (@sleepinyourhat)</i>
 
 NLP is a fast growing 🚀 domain with a lot of inventions. Therefore, it might be hard and time-consuming to dive into such an overwhelming flow of information. This Tweet-Letter provides interesting NLP Tweets of the week as a starting point for everyone who is interested in NLP (and dog content 🐶). ❗️ Please note that it is certainly incomplete - I am just a "victim" of my own filter bubble and I definitly missed a lot of cool other Tweets.
 
