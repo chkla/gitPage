@@ -1,5 +1,6 @@
 ---
 layout: post
+title: My favorite NLP Tweets of the week (🗓 12.8.-18.8.19)
 author: christopher
 ---
 
