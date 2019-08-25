@@ -1,9 +1,11 @@
 ---
 layout: post
+title: My favorite NLP Tweets of the week (🗓 21.8.-25.8.19)
 author: christopher
 ---
 
-<b>My favorite NLP Tweets of the week (🗓 21.8.-25.8.19)</b>
+<i>POLL for #nlproc folks: Does the #benderrule belong in the title? I'm also curious if the answer depends on whether you're working on a high/low resource language: put language in abstract (48%) - Esther Seyffarth (@ojahnn)</i>
+
 
 NLP is a fast growing 🚀 domain with a lot of inventions. Therefore, it might be hard and time-consuming to dive into such an overwhelming flow of information. This Tweet-Letter provides interesting NLP Tweets of the week as a starting point for everyone who is interested in NLP (+ PhD, computational social science, Hannah Arendt and dog content 🐶). ❗️ Please note that it is certainly incomplete - I am just a "victim" of my own filter bubble and I definitly missed a lot of cool other NLP Tweets.
 
