@@ -19,8 +19,7 @@ Hi, I am Christopher a doctoral researcher in Natural Language Processing @ [UKP
 * 👥 [LinkedIn](https://www.linkedin.com/in/christopher-klamm-865786b3/)
 * 🍿 [Twitter](https://twitter.com/chklamm)
 
-## +
-Beside my research, I like to do further trainings, qualifications etc.:
-* University Certificate “Writing Tutoring and Writing Skills Training” (2015-2017), [SchreibCenter @ TU Darmstadt](https://www.owl.tu-darmstadt.de/schreibcenter_1/index.de.jsp) 
+## Additional qualifications and skills:
+* University Certificate “Writing Tutoring and Writing Skills Training” (2015-2017, >300h) and advanced writing qualifications ("Writing Center Management" (2017, 3 days), "Creative Writing" (2018, 3 days) and "Academic Language" (2019, 3 days)) [SchreibCenter @ TU Darmstadt](https://www.owl.tu-darmstadt.de/schreibcenter_1/index.de.jsp)
 * University Certificate "Team and presentation Training" (2014-2018), [Hochschuldidaktische Arbeitsstelle @ TU Darmstadt](https://www.hda.tu-darmstadt.de/hda/index.de.jsp)
-* Certificates "Relaxing Coach" (2017) and "Autogenous Training" (2018),  [Darmstädter Akademie für Gesundheit und Sport @ TU Darmstadt](https://www.sport.tu-darmstadt.de/dienstleistungen/fortbildungen_ifs.de.jsp)
+* University Certificates "Relaxing Coach" (2017), "Autogenous Training" (2018) and "Stress Management" (2020, 8 days) [Darmstädter Akademie für Gesundheit und Sport @ TU Darmstadt](https://www.sport.tu-darmstadt.de/dienstleistungen/fortbildungen_ifs.de.jsp)
