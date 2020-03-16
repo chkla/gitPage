@@ -2,10 +2,9 @@
 layout: default
 ---
 
-## About Me
+## About Me (Christopher Klamm, M.Sc., M.A.)
 
 <img class="profile-picture" src="chris.jpg">
-Christopher Klamm, M.Sc., M.A.
 
 Hi, I am Christopher a doctoral researcher in Natural Language Processing @ [UKP TU Darmstadt, <i>Prof. Dr. Iryna Gurevych</i>](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/about_ukp/index.en.jsp). My work focuses on interdisciplinary research in Natural Language Processing for political and social good. I hold a master degree (2018, <i>with distinction</i>) in Computer Science (with a minor in philosophie) from Technical University Darmstadt (abroad semester at the University of Zurich and ETH Zurich (special student and research/ student assistant @ [Computational Social Science, <i>Prof. Dr. Helbing</i>](http://www.coss.ethz.ch))) and I hold a master degree in Governance and Public Policy from the Technical University Darmstadt (2019).
 
