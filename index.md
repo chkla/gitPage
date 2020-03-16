@@ -5,14 +5,14 @@ layout: default
 ## About Me
 
 <img class="profile-picture" src="chris.jpg">
+Christopher Klamm, M.Sc., M.A.
 
-Hi, I am Christopher a doctoral researcher in NLP @ [UKP TU Darmstadt, <i>Prof. Dr. Iryna Gurevych</i>](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/about_ukp/index.en.jsp). My work focuses on interdisciplinary research for Argumentation Mining and Bias in NLP. I hold a Master (2018, <i>with distinction</i>) in Computer Science from TU Darmstadt (abroad semester at the University of Zurich and ETH Zurich (special student and research/ student assistant @ [Computational Social Science, <i>Prof. Dr. Helbing</i>](http://www.coss.ethz.ch))). Additionally, I completed my Master’s degree in Governance and Public Policy at the TU Darmstadt (2019).
+Hi, I am Christopher a doctoral researcher in Natural Language Processing @ [UKP TU Darmstadt, <i>Prof. Dr. Iryna Gurevych</i>](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/about_ukp/index.en.jsp). My work focuses on interdisciplinary research in Natural Language Processing for political and social good. I hold a master degree (2018, <i>with distinction</i>) in Computer Science (with a minor in philosophie) from Technical University Darmstadt (abroad semester at the University of Zurich and ETH Zurich (special student and research/ student assistant @ [Computational Social Science, <i>Prof. Dr. Helbing</i>](http://www.coss.ethz.ch))) and I hold a master degree in Governance and Public Policy from the Technical University Darmstadt (2019).
 
-## Research Interest
-* Political Science + NLP = 🎉
-* Bias in NLP
-* Argumentation Mining
-* Science Communication
+## Research Interest (Political Science + NLP = 🎉)
+* NLP for political and social/ public good
+* NLP enriched methods for political science (e.g., framing or argumentation analysis)
+* NLP-based (political) bias analysis
 
 ## Links
 * 🗄 [Google scholar](https://scholar.google.de/citations?hl=de&authuser=1&user=oLSU8LEAAAAJ)
