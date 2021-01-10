@@ -3,10 +3,14 @@ layout: default
 ---
 
 ## Teaching
+I teach or have been teaching:
 
 ### Lectures/ Tutoring
 * "Foundations of Language Technology" (2019/2020, with Gözde Gül Şahin), TU Darmstadt.
 * "Foundations of Language Technology" (2018/2019, with Christian Meyer and Gözde Gül Şahin), TU Darmstadt.
+
+### Seminar
+* "Engineers in the Society" (2016), Seminar, Mechanical Engineering and SchreibCenter, TU Darmstadt.
 
 ### Workshops (last 5 entries)
 * "Writing without Stress" (2021)
