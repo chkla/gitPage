@@ -6,7 +6,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://ankitsultana.com"
+footer_url: ""
 footer_text: "Page design by Ankit Sultana"
 
 sass:
@@ -14,6 +14,14 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "News"
+   link: "news"
+ - name: "Projects"
+   link: "projects"
+ - name: "Talks/Workshops"
+   link: "talsk"
+ - name: "Publications"
+   link: "publications"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
