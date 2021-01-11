@@ -31,5 +31,5 @@ I teach or have been teaching:
 * Michael Tilli (tutor)
 * Tobias A. Semmelmann (software project student)
 * Martina Gassen (software project student)
-* Leonard Bongard (software project student)
+* Leonard Bongard (software project and research student)
 * Ines Zelch (thesis student)
