@@ -6,8 +6,8 @@ layout: default
 I teach or have been teaching:
 
 ### Lectures
-* ["Foundations of Language Technology"](https://www.informatik.tu-darmstadt.de/ukp/teaching_ukp/courses_3/previous_terms/wise_2018___2019/foundations_of_language_technology_6/foundations_of_language_technology_7.en.jsp) (2019/2020, with Gözde Gül Şahin), TU Darmstadt.
-* ["Foundations of Language Technology"](https://www.informatik.tu-darmstadt.de/ukp/teaching_ukp/courses_3/current_and_upcoming_courses/wise_2018___2019/foundations_of_language_technology_6/foundations_of_language_technology_7.en.jsp) (2018/2019), Practical Class (1.38, very good, practical class evaluation) TU Darmstadt.
+* ["Foundations of Language Technology"](https://www.informatik.tu-darmstadt.de/ukp/teaching_ukp/courses_3/previous_terms/wise_2018___2019/foundations_of_language_technology_6/foundations_of_language_technology_7.en.jsp) (2019/2020), TU Darmstadt with Gözde Gül Şahin.
+* ["Foundations of Language Technology"](https://www.informatik.tu-darmstadt.de/ukp/teaching_ukp/courses_3/current_and_upcoming_courses/wise_2018___2019/foundations_of_language_technology_6/foundations_of_language_technology_7.en.jsp) (2018/2019), Practical Class (1.38, very good, practical class evaluation) TU Darmstadt with Christian Meyer and Gözde Gül Şahin.
 
 ### Seminar
 * ["Engineers in the Society"](https://www.maschinenbau.tu-darmstadt.de/studieren/interessierte/studiengaenge_mb/b_mpe/index.en.jsp) (2016), Seminar, Mechanical Engineering and Writing Center, SchreibCenter, TU Darmstadt.
