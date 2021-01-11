@@ -13,7 +13,7 @@ I teach or have been teaching:
 * ["Engineers in the Society"](https://www.maschinenbau.tu-darmstadt.de/studieren/interessierte/studiengaenge_mb/b_mpe/index.en.jsp) (2016), Seminar, Mechanical Engineering and Writing Center, SchreibCenter, TU Darmstadt.
 
 ### Tutoring (as a student research assistant)
-* "Foundations of Computer Science 3" (2014/2015), Practical Class, TU Darmstadt.
+* ["Foundations of Computer Science 3"](https://www.visinf.tu-darmstadt.de/classes/lectures/gdi_iii/vi_lectures_gdi3_ws15.en.jsp) (2015/2016), Practical Class, TU Darmstadt.
 * "Foundations of Computer Science 3" (2013/2014), Practical Class ([the entire course received an award for mentoring](https://www.fachschaft.informatik.tu-darmstadt.de/de/studierende/feedback/hall-of-fame/)), TU Darmstadt.
 * "Foundations of Computer Science 3" (2012/2013), Practical Class (1.3, very good, practical class evaluation, n=10), TU Darmstadt.
 
