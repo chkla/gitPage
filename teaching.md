@@ -10,14 +10,14 @@ I teach or have been teaching:
 * "Foundations of Language Technology" (2018/2019, with Christian Meyer and Gözde Gül Şahin), TU Darmstadt.
 
 ### Seminar
-* "Engineers in the Society" (2016), Seminar, Mechanical Engineering and SchreibCenter, TU Darmstadt.
+* "Engineers in the Society" (2016), Seminar, Mechanical Engineering and Writing Center, SchreibCenter, TU Darmstadt.
 
 ### Workshops (last 5 entries)
-* "Writing without Stress" (2021)
+* "(Academic) Stressless Writing" (2021)
 * "(Academic) Stress management" (2020), SchreibCenter, TU Darmstadt.
 * "Presentation Training for Computer Science Students" (2018), HDA, TU Darmstadt.
 * “Scientific Writing for Computer Science Students” (2016), SchreibCenter, TU Darmstadt.
-* "Presentation Training for Computer Science Students" (2016), HDA, TU Darmstadt.
+* "Presentation Training for Computer Science Students" (2016), Higher Education Laboratory, HDA, TU Darmstadt.
 
 ### Supervised Students
 * Marco Huber (tutor)
