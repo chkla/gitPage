@@ -1,5 +1,5 @@
 ---
-layout: default
+layout:
 ---
 
 ## About Me (Christopher Klamm, M.Sc., M.A.)
