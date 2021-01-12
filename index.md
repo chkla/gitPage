@@ -3,7 +3,7 @@ layout: default
 ---
 
 ## About Me (Christopher Klamm, M.Sc., M.A.)
-* 🗄 [Google scholar](https://scholar.google.de/citations?hl=de&authuser=1&user=oLSU8LEAAAAJ)
+* 🗄 [Google scholar](https://scholar.google.de/citations?hl=de&authuser=1&user=oLSU8LEAAAAJ "Google scholar")
 * 🔬 [UKP lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_68224.en.jsp)
 * 👥 [LinkedIn](https://www.linkedin.com/in/christopher-klamm-865786b3/)
 * 🍿 [Twitter](https://twitter.com/chklamm)
