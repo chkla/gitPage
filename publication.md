@@ -5,11 +5,11 @@ layout: default
 ## Publications
 
 2021
-* (Poster) **Klamm, Christopher** "'Stop the Shutdown': Tracking Public Reactions to Policy Responses to the Coronavirus Pandemic around the World" (2021), Poster Presentation @ Advanced Language Processing Winter School (ALPS), Grenoble, 17.-21.01.2021 (online).
-* (Poster) **Klamm, Christopher** "Limitations and Chances of Computational Methods for Analyzing Framing" (2021), Poster Presentation @ Mediterranean Machine Learning Summer School (M2L), 11.-16.01.2021 (online).
+* _(Poster)_ **Klamm, Christopher** "'Stop the Shutdown': Tracking Public Reactions to Policy Responses to the Coronavirus Pandemic around the World" (2021), Poster Presentation @ Advanced Language Processing Winter School (ALPS), Grenoble, 17.-21.01.2021 (online).
+* _(Poster)_ **Klamm, Christopher** "Limitations and Chances of Computational Methods for Analyzing Framing" (2021), Poster Presentation @ Mediterranean Machine Learning Summer School (M2L), 11.-16.01.2021 (online).
 
 2020
-* (Poster) **Klamm, Christopher** "Public Reactions Tracking Framework" (2020), Presentation @ Norms of Public Argument: Concepts and Methods, Workshop, Budapest, 30.09.-02.10.2020 (online)
+* _(Poster)_ **Klamm, Christopher** "Public Reactions Tracking Framework" (2020), Presentation @ Norms of Public Argument: Concepts and Methods, Workshop, Budapest, 30.09.-02.10.2020 (online)
 
 2018
 * _(Article)_ Drumm, Sandra ; Hertweck, Lisa ; Hunsrucker, Verena ; **Klamm, Christopher** Merkelbach, Chris ; Sablotny, Manfred (Hrsg.) (2018): Schreibunterstützung bei der Bachelorarbeit : fachspezifisch und/oder fachübergreifend? : Praxisbericht. In: Darmstädter Vielfalt in der Linguistik : 10 Jahre Fachgebiet Sprachwissenschaft – Mehrsprachigkeit an der Technischen Universität Darmstadt, Baltmannsweiler, Schneider Verlag Hohengehren.
