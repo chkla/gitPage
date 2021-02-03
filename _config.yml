@@ -14,8 +14,8 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "News"
-   link: "news"
+# - name: "News"
+#   link: "news"
 # - name: "Projects"
 #   link: "projects"
 # - name: "Qualifications"
