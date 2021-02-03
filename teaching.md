@@ -11,7 +11,7 @@ I teach or have been teaching:
 ### Workshops/ Guest Lectures
 * "Stressless Academic Writing" (2021), Guest Lecture @ SchreibCenter TU Darmstadt (online).
 * "Stress management" (2020), Guest Lecture @ SchreibCenter TU Darmstadt (online).
-* "Academic Writing" (2020), Guest Lecture @ Bachelorpraktikum. TU Darmstadt.
+* "Academic Writing" (2020), Guest Lecture @ Bachelorpraktikum. TU Darmstadt (online).
 * "Academic Writing" (2019), Guest Lecture @ Bachelorpraktikum. TU Darmstadt.
 * "Presentation Training for Computer Science Students" (2018), HDA, TU Darmstadt.
 * “Scientific Writing for Computer Science Students” (2016), SchreibCenter, TU Darmstadt.
