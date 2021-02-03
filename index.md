@@ -19,4 +19,4 @@ Hi, I am Christopher a doctoral researcher in Natural Language Processing @ [UKP
 ## Additional qualifications and skills (selected):
 * University Certificate “Writing Tutoring and Writing Skills Training” (2015-2017, >300h) and advanced writing qualifications ("Writing Center Management" (2017, 3 days), "Creative Writing" (2018, 3 days) and "Academic Language" (2019, 3 days)), [SchreibCenter @ TU Darmstadt](https://www.owl.tu-darmstadt.de/schreibcenter_1/index.de.jsp)
 * University Certificate "Team and presentation Training" (2014-2018, >150h), [Hochschuldidaktische Arbeitsstelle @ TU Darmstadt](https://www.hda.tu-darmstadt.de/hda/index.de.jsp)
-* University Certificates "Relaxing Coach" (2017), "Autogenous Training" (2018) and "Stress Management" (2020, >70h), [Darmstädter Akademie für Gesundheit und Sport @ TU Darmstadt](https://www.sport.tu-darmstadt.de/dienstleistungen/fortbildungen_ifs.de.jsp)
+* University Certificates "Stress Management" (2020, >70h), "Autogenous Training" (2018) and "Relaxing Coach" (2017), [Darmstädter Akademie für Gesundheit und Sport @ TU Darmstadt](https://www.sport.tu-darmstadt.de/dienstleistungen/fortbildungen_ifs.de.jsp)
