@@ -17,7 +17,7 @@ Hi, I am Christopher a doctoral researcher in Natural Language Processing @ [UKP
 * NLP-based (political) bias analysis
 
 ## Additional qualifications and skills (selected):
-* Higher Education Certificate (2018-today), Foundations of Academic Teaching I & II and advanced academic qualifications (Gender Equality and Diversity (2021), ...), [HDA @ TU Darmstadt](https://www.hda.tu-darmstadt.de/angebote_fuer_lehrende_1/zertifikat_hochschullehre_1/zertifikat_1.de.jsp)
-* University Certificates "Stress Management" (2020, >70h), "Autogenous Training" (2018) and "Relaxing Coach" (2017), [Darmstädter Akademie für Gesundheit und Sport @ TU Darmstadt](https://www.sport.tu-darmstadt.de/dienstleistungen/fortbildungen_ifs.de.jsp)
-* University Certificate “Writing Tutoring and Writing Skills Training” (2015-2017, >300h) and advanced writing qualifications ("Academic Language" (2019, 3 days), "Creative Writing" (2018, 3 days), "Writing Center Management" (2017, 3 days)), [SchreibCenter @ TU Darmstadt](https://www.owl.tu-darmstadt.de/schreibcenter_1/index.de.jsp)
-* University Certificate "Team and presentation Training" (2014-2018, >150h), [Hochschuldidaktische Arbeitsstelle @ TU Darmstadt](https://www.hda.tu-darmstadt.de/hda/index.de.jsp)
+* University Certificates **"Higher Education Certificate"** (2018-today), Foundations of Academic Teaching I & II and advanced academic qualifications (Gender Equality and Diversity (2021), ...), [HDA @ TU Darmstadt](https://www.hda.tu-darmstadt.de/angebote_fuer_lehrende_1/zertifikat_hochschullehre_1/zertifikat_1.de.jsp)
+* University Certificates **"Stress Management"** (2020, >70h), "Autogenous Training" (2018) and "Relaxing Coach" (2017), [Darmstädter Akademie für Gesundheit und Sport @ TU Darmstadt](https://www.sport.tu-darmstadt.de/dienstleistungen/fortbildungen_ifs.de.jsp)
+* University Certificate **“Writing Tutoring and Writing Skills Training”** (2015-2017, >300h) and advanced writing qualifications ("Academic Language" (2019, 3 days), "Creative Writing" (2018, 3 days), "Writing Center Management" (2017, 3 days)), [SchreibCenter @ TU Darmstadt](https://www.owl.tu-darmstadt.de/schreibcenter_1/index.de.jsp)
+* University Certificate **"Team and presentation Training"** (2014-2018, >150h), [Hochschuldidaktische Arbeitsstelle @ TU Darmstadt](https://www.hda.tu-darmstadt.de/hda/index.de.jsp)
