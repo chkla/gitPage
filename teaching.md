@@ -2,7 +2,6 @@
 layout: default
 ---
 
-## Teaching
 I teach or have been teaching:
 
 ### Lectures
