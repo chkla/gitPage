@@ -11,6 +11,6 @@ In 2019 the paper "Energy and Policy Considerations for Deep Learning in NLP" [(
 
 The CodeCarbon 💨 project is a software package to track the carbon footprint. This package is already integrated into Comet ☄️, a tool to analyze and track your models.
 
-To exemplify the use of CodeCarbon 💨, I used a part of code from [this](https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/text_classification.ipynb#scrollTo=uNx5pyRlIrJh) and HuggingFace' notebook to define a simple task for fine-tuning a language model (if you want, you can try out any other task).
+To exemplify the use of CodeCarbon 💨, I used a part of code from [this](https://colab.research.google.com/github/huggingface/notebooks/blob/master/examples/text_classification.ipynb#scrollTo=uNx5pyRlIrJh) and HuggingFace' notebook to define a simple task for fine-tuning a language model (if you want, you can try out any other task). Check out the [notebook](https://github.com/chkla/codecarbon-huggingface).
 
 Happy responsible researching!
