@@ -23,3 +23,7 @@ Association for Computational Linguistics, Copenhagen, Denmark.
 
 2014
 * _(Article)_ Burkhardt, Dirk ; Nazemi, Kawa ; **Klamm, Christopher** ; Kohlhammer, Jörn ; Kuijper, Arjan (2014): Comparison of e-Participation Roadmap in Industrial and Developing Countries based on Germany and Kenya. S. 399-402, ACM Press, New York, ICEGOV 2014, DOI: 10.1145/2691195.2691209.
+
+## Others
+* _(Article)_ **Klamm, Christopher** (2021): Mentoren im Leben von Robert Iger und die eigene Rolle als Mentor\*In (engl. Mentors in the life of Robert Iger and your own role as a mentor), [Link](https://christopher-klamm.medium.com/mentoren-im-leben-von-robert-iger-und-die-eigene-rolle-als-mentor-in-9f7f4beb03d3) \[2021-02-07].
+* _(Article)_ Palm, Annika ; **Klamm, Christopher** (2019): ArgumenText in the Media, [Link](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/news_ukp/news_archive/detailseite_news_archiv_148672.en.jsp), \[2019-03-17].
