@@ -3,12 +3,6 @@ layout: default
 ---
 
 ## About Me (Christopher Klamm, M.Sc., M.A.)
-* 🗄 [Google scholar](https://scholar.google.de/citations?hl=de&authuser=1&user=oLSU8LEAAAAJ "Google scholar")
-* 🔬 [UKP lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_68224.en.jsp)
-* 👥 [LinkedIn](https://www.linkedin.com/in/christopher-klamm-865786b3/)
-* 🚀 [GitHub](https://github.com/chkla/)
-* 🍿 [Twitter](https://twitter.com/chklamm) -> 🚨 Stay tuned on ["NLP & Political Science 🚀"](https://twitter.com/i/lists/1353009462236372992?s=20) and join my growing [TwitterList](https://twitter.com/i/lists/1353009462236372992?s=20) full of amazing minds 🧠 making up an exciting interdisciplinary research field.
-
 <img class="profile-picture" src="chris.jpg">
 Hi, I am Christopher a doctoral researcher in Natural Language Processing @ [UKP TU Darmstadt, <i>Prof. Dr. Iryna Gurevych</i>](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/about_ukp/index.en.jsp). My work focuses on interdisciplinary research in Natural Language Processing for political and social good. I hold a master degree (2018, <i>with distinction</i>) in Computer Science (with a minor in philosophy) from the [Technical University Darmstadt](https://www.tu-darmstadt.de) (abroad semester at the University of Zurich and ETH Zurich (special student and research/ student assistant @ [Computational Social Science, <i>Prof. Dr. Helbing</i>](http://www.coss.ethz.ch))) and I hold a master degree in Governance and Public Policy from the [Technical University Darmstadt](https://www.tu-darmstadt.de) (2019).
 
@@ -16,6 +10,12 @@ Hi, I am Christopher a doctoral researcher in Natural Language Processing @ [UKP
 * NLP for political and social/ public good
 * NLP enriched methods for political science (e.g., framing or argumentation analysis)
 * NLP-based (political) bias analysis
+
+* 🗄 [Google scholar](https://scholar.google.de/citations?hl=de&authuser=1&user=oLSU8LEAAAAJ "Google scholar")
+* 🔬 [UKP lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_68224.en.jsp)
+* 👥 [LinkedIn](https://www.linkedin.com/in/christopher-klamm-865786b3/)
+* 🚀 [GitHub](https://github.com/chkla/)
+* 🍿 [Twitter](https://twitter.com/chklamm) -> 🚨 Stay tuned on ["NLP & Political Science 🚀"](https://twitter.com/i/lists/1353009462236372992?s=20) and join my growing [TwitterList](https://twitter.com/i/lists/1353009462236372992?s=20) full of amazing minds 🧠 making up an exciting interdisciplinary research field.
 
 ## Additional qualifications and skills (selected):
 * University Certificates **"Higher Education"** (2018-today), Foundations of Academic Teaching I & II and advanced academic qualifications (Gender Equality and Diversity (2021), ...), [HDA @ TU Darmstadt](https://www.hda.tu-darmstadt.de/angebote_fuer_lehrende_1/zertifikat_hochschullehre_1/zertifikat_1.de.jsp)
