@@ -16,7 +16,7 @@ Hi, I am Christopher a doctoral researcher in Natural Language Processing @ [UKP
 * 🔬 [UKP lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/staff_ukp/detailseite_mitarbeiter_1_68224.en.jsp)
 * 👥 [LinkedIn](https://www.linkedin.com/in/christopher-klamm-865786b3/)
 * 🚀 [GitHub](https://github.com/chkla/)
-* 🍿 [Twitter](https://twitter.com/chklamm) -> 🚨 Stay tuned on ["NLP & Political Science 🚀"](https://twitter.com/i/lists/1353009462236372992?s=20) and join my growing [TwitterList](https://twitter.com/i/lists/1353009462236372992?s=20) full of amazing minds 🧠 making up an exciting interdisciplinary research field.
+* 🍿 [Twitter](https://twitter.com/chklamm) -> 🚨 Stay tuned on ["NLP & Political Science 🚀"](https://twitter.com/i/lists/1353009462236372992?s=20) and join the growing [TwitterList](https://twitter.com/i/lists/1353009462236372992?s=20) full of amazing minds 🧠 making up an exciting interdisciplinary research field.
 
 ## Additional qualifications and skills (selected):
 * University Certificates **"Higher Education"** (2018-today), Foundations of Academic Teaching I & II and advanced academic qualifications (Gender Equality and Diversity (2021), ...), [HDA @ TU Darmstadt](https://www.hda.tu-darmstadt.de/angebote_fuer_lehrende_1/zertifikat_hochschullehre_1/zertifikat_1.de.jsp)
