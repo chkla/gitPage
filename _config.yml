@@ -1,7 +1,8 @@
 title: Christopher Klamm
 url: https://klamm.info
 
-markdown: 
+markdown: kramdown:
+  parse_block_html: true
 
 tracking_id: #
 
