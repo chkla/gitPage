@@ -24,6 +24,6 @@ I teach or have been teaching:
 
 ### Supervised Students
 * 5 tutors
-* 3 student helpers
+* 5 student helpers
 * 3 software project students
 * 5 thesis students
