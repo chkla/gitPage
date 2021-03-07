@@ -9,7 +9,7 @@ Hi, I am Christopher a doctoral researcher in Natural Language Processing @ [UKP
 ## Research Interest (Political Science + NLP = PolNLP 🎉)
 * NLP enriched methods for political science (e.g., framing analysis and argument mining)
 * NLP-based (political) bias analysis
-* NLP for political and social/ public good
+* NLP for political and social/ public good to benefit society
 
 ## Links
 * 🗄 [Google scholar](https://scholar.google.de/citations?hl=de&authuser=1&user=oLSU8LEAAAAJ "Google scholar")
