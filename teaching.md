@@ -13,7 +13,7 @@ I teach or have been teaching:
 * "Foundations of Computer Science 3" (2012/2013), Tutor, Practical Class (1.3, very good, practical class evaluation, n=10), TU Darmstadt.
 
 ### Workshops/ Seminars/ Guest Lectures
-* "Stressless Academic Writing" (2021), Guest Lecture @ SchreibCenter TU Darmstadt (online).
+* "Stressless Academic Writing" (2021), Guest Lecture @ SchreibCenter TU Darmstadt (online, 1.3 workshop evaluation n=4 _very good_).
 * "Stress management" (2020), Guest Lecture @ SchreibCenter TU Darmstadt (online).
 * "Academic Writing" (2020), Guest Lecture @ Bachelorpraktikum. TU Darmstadt (online).
 * "Academic Writing" (2019), Guest Lecture @ Bachelorpraktikum. TU Darmstadt.
